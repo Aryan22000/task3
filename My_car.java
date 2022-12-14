@@ -1,6 +1,6 @@
 package task3;
 
-
+// car class
 public class My_car {
 
   public static void main(String[] args) {
@@ -11,7 +11,7 @@ public class My_car {
       car1.model = "500";
       int New_amountOfFuel = 50 ;
       int reful = 8;
-      
+      // 
       car1.amountOfFuel = New_amountOfFuel;
       //***********
       //useing the methods =>
